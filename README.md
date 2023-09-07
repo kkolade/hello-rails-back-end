@@ -24,7 +24,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+<<<<<<< HEAD
 # 📖 Hello Rails Back End <a name="about-project"></a>
+=======
+# 📖 Hello React Front End <a name="about-project"></a>
+
+**hello-react-front-end** is an exercise at Microverse in preparation for our capstone project where we had a group of 4-5 students work as a team to develop a fullstack app using Rails on the backend and React on the front end. In the exercise we build a simple project with Rails on the backend and React as the frontend and we make a get call to the API exposed by the Rails from the React app
+Here is the repo to the [front-end](https://github.com/kkolade/hello-react-front-end/pull/1)
+>>>>>>> 05df90312abb48f5d2c80b4292a24520225ecb2a
 
 **hello-rails-back-end** is an exercise at Microverse in preparation for our capstone project where we had a group of 4-5 students work as a team to develop a fullstack app using Rails on the backend and React on the front end. In the exercise we build a simple project with Rails on the backend and React as the frontend and we make a get call to the API exposed by the Rails from the React app
 here is the link to the [front-end repo](https://github.com/kkolade/hello-rails-back-end/pull/1)
@@ -122,8 +129,13 @@ To run tests, run the following command:
 
 <pre>rspec ./spec/</pre> -->
 
+<<<<<<< HEAD
 <!--
 Example command:
+=======
+   
+      Example command:
+>>>>>>> 05df90312abb48f5d2c80b4292a24520225ecb2a
 
 ```sh
   bin/rails test test/models/article_test.rb
