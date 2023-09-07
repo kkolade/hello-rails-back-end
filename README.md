@@ -137,7 +137,7 @@ Clone this repositories to your desired folder:
 
     <pre>rspec ./spec/</pre> -->
 
-    <!--
+   
       Example command:
 
       ```sh
