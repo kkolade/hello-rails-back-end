@@ -24,18 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-<<<<<<< HEAD
 # 📖 Hello Rails Back End <a name="about-project"></a>
-=======
-# 📖 Hello React Front End <a name="about-project"></a>
-
-**hello-react-front-end** is an exercise at Microverse in preparation for our capstone project where we had a group of 4-5 students work as a team to develop a fullstack app using Rails on the backend and React on the front end. In the exercise we build a simple project with Rails on the backend and React as the frontend and we make a get call to the API exposed by the Rails from the React app
-Here is the repo to the [front-end](https://github.com/kkolade/hello-react-front-end/pull/1)
->>>>>>> 05df90312abb48f5d2c80b4292a24520225ecb2a
 
 **hello-rails-back-end** is an exercise at Microverse in preparation for our capstone project where we had a group of 4-5 students work as a team to develop a fullstack app using Rails on the backend and React on the front end. In the exercise we build a simple project with Rails on the backend and React as the frontend and we make a get call to the API exposed by the Rails from the React app
-here is the link to the [front-end repo](https://github.com/kkolade/hello-rails-back-end/pull/1)
-## 🛠 Built With <a name="built-with"></a>
+Here is the repo to the [front-end](https://github.com/kkolade/hello-react-front-end/pull/1)
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -97,9 +90,9 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<pre>https://github.com/kkolade/hello-react-front-end.git</pre>
+<pre>https://github.com/kkolade/hello-rails-back-end.git</pre>
 
-- `cd hello-react-front-end`
+- `cd hello-rails-back-end`
 - `code .` <!-- If you are using VS Code -->
 <!--
 Example commands:
@@ -110,7 +103,7 @@ Example commands:
 Install the gems and packges required for this project with:
 
 ```sh
-  npm install
+  bundle install
 ```
 --->
 
@@ -118,10 +111,10 @@ Install the gems and packges required for this project with:
 
 To run the project, execute the following command:
 
-<pre>npm start</pre>
+<pre>rails s</pre>
 
 Open your browser and go to:
-<pre>http://localhost:3001/</pre>
+<pre>http://localhost:3000/</pre>
 
 <!-- ### Run tests
 
@@ -129,13 +122,9 @@ To run tests, run the following command:
 
 <pre>rspec ./spec/</pre> -->
 
-<<<<<<< HEAD
 <!--
 Example command:
-=======
-   
-      Example command:
->>>>>>> 05df90312abb48f5d2c80b4292a24520225ecb2a
+
 
 ```sh
   bin/rails test test/models/article_test.rb
